@@ -7,7 +7,7 @@ Hevnly lets you discover a curated collection of incredible lifestyle products f
 You can use hevnly to express your own personal style or even just to keep up to date with the latest fashion and styles.
 
 ## The dev team ##
-Hevnly has a very multicultural team that discusses and attempts to solve not only all of Hevnly's technical projects but the worlds problems in general. [This](/aboutus) page has a short bio on all of them.
+Hevnly has a very multicultural team that discusses and attempts to solve not only all of Hevnly's technical projects but the worlds problems in general. [This](/about-us) page has a short bio on all of them.
 
 ## Our philosophies ##
 + Simplicity
