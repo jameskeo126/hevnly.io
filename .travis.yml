@@ -1,8 +1,10 @@
 language: node_js
 node_js:
   - stable
-before_install:
-  - sudo apt-get install markdown
+addons:
+  apt:
+    packages:
+    - markdown
 sudo: false
 script:
   - cd .build/
