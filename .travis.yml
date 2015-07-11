@@ -3,6 +3,7 @@ node_js:
   - stable
 before_install:
   - sudo apt-get install markdown
+sudo: false
 script:
   - cd .build/
   - ./build.sh ../.templates/header.html ../.templates/footer.html
