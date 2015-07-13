@@ -7,7 +7,7 @@ Hevnly lets you discover the finest lifestyle products from pioneering designers
 
 ## The Dev Team ##
 
-The Hevnly tech team unites a highly-ecclectic and multi-cultural assortment of individuals who attempt to solve not only all of Hevnly's technical issues but the world's problems in general. [This](/about-us) page contains a short bio on all of them.
+The Hevnly tech team unites individuals from many different cultures who attempt to solve not only all of Hevnly's technical issues but often the world's problems in general. [This](/about-us) page contains a short bio on all of them.
 
 ## Our philosophies ##
 
