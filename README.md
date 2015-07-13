@@ -1,9 +1,9 @@
 This is the developer channel for [hevnly.com](https://hevnly.com).
 ## About Hevnly ##
 
-Hevnly is an online shopping platform and social network where you can buy beautiful things and connect with stylish individuals around the world.
+Hevnly is an online shopping platform and social network where users can buy beautiful things and connect with stylish individuals around the world.
 
-Hevnly lets you discover the finest lifestyle products from pioneering designers and unique brands. Hevnly can be used to express your own personal style or even just to keep up to date with the latest in fashion and contemporary products.
+Hevnly lets users browse through and discover the finest products from pioneering designers and unique brands. Hevnly can be used to express personal style or just update users with the latest developments in the fashion, tech and home decor.
 
 ## The Dev Team ##
 
