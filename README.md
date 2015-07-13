@@ -7,7 +7,7 @@ Hevnly lets users browse through and discover the finest products from pioneerin
 
 ## The Dev Team ##
 
-The Hevnly tech team unites individuals from many different cultures who attempt to solve not only all of Hevnly's technical issues but often the world's problems in general. [This](/about-us) page contains a short bio on all of them.
+The Hevnly dev team unites individuals from many different cultures who attempt to solve not only all of Hevnly's technical issues but often the world's problems in general. [This](/about-us) page contains a short bio on all of them.
 
 ## Our philosophies ##
 
